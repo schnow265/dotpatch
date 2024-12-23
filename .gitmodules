@@ -1,6 +1,3 @@
 [submodule "editors/neovim"]
 	path = editors/neovim
 	url = https://github.com/neovim/neovim
-[submodule "development/llvm-project"]
-	path = development/llvm-project
-	url = https://github.com/llvm/llvm-project.git
